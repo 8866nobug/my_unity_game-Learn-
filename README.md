@@ -1,2 +1,1 @@
-# my_unity_game-Learn-
-a game repository for learning
+学习游戏开发的仓库，目前空空如也
